@@ -1,0 +1,15 @@
+//for
+es una expresión de bucle en js , en donde se evaluan expresiones constantemente, hasta encontrar un valor buscado
+o hasta cierto tiempo, tiene una síntasis única con la cual se le dan las instrucciones de búsqueda al bucle.
+
+
+//&&, ||, !
+los tres son operadores lógicos con los cuales podemos combinar dos expresiones de igualdad, y preguntar si alguna de 
+las dos es verdadera, o si ambas lo son, o ninguna, de manera que nos devolverá un booleano, y en efecto, el programa
+se ejecutará, o no.
+&& representa "and" ("Y" en castellano) y evalúa las expresiones de tal manera que el operador solo respondera true
+si ambas expresiones son verdaderas; 
+|| significa "OR" , ("O" en castellano), y devuelve TRUE en caso de que una de las expresiones sean verdaderas
+en caso de que ambas sean FALSAS, responderá FALSE;
+! el operador NOT ("NO") , devolverá el valor opuesto al que le pasamos, por ejemplo en el caso de una igualdad de 
+expresiones, anteponiendo el operador '!' , se convertirá en una desigualdad
