@@ -1,0 +1,16 @@
+//variables
+es una forma de crear un significado o valor a un objeto o cosa "x" , para luego reutilizar ese resultado
+//strings
+tipo de dato (cadena en castellano), es cualquier tipo de texto escrito entre comillas, dobles o simples
+por ejemplo "HelloWorld" = 'HelloWorld'
+//funciones(argumentos, return)
+las funciones son la forma de calcular, cambiar o lograr que un conjunto de variables "haga algo"; los argumentos 
+son las variables que podemos introducir dentro de una función, para que luego nos devuelva un valor determinado  
+el return es una declaracion en nuestra función que nos devolverá algo especificado, por ejemplo el valor de una 
+suma entre 2 variables
+//declaraciones if
+son condiciones que le damos a nuestra función para que nos devuelva un valor determinado, 
+"SI y solo SI se cumple tal condición, el programa nos devolverá tal valor" 
+//booleans
+los valores booleans son análogos al código binario en computación, en este caso usamos en lugar de 1 y 0, 
+'true' o 'false', se denomina lógica booleana
